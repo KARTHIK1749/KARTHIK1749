@@ -9,14 +9,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KARTHIK1749&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KARTHIK1749&layout=compact)
-
----
-
 ## 🚀 About Me
 
 I'm a student developer passionate about building **from scratch**, deeply understanding systems, and applying AI/ML to real-world problems.  
