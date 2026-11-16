@@ -78,18 +78,18 @@ text, tspan {white-space: pre;}
 </text>
 </g>
 <text x="500" y="30" fill="#dbeafe">
-<tspan x="520" y="30" fill="#7DF9FF" fontsize="17px">Karthii@Neural-grid</tspan> -———————————————————————————————————————————-—-
+<tspan x="520" y="30" fill="#7DF9FF" fontsize="17px">Karthii@Mecha-grid</tspan> -———————————————————————————————————————————-—-
 <tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Karthik Panuganti</tspan>
-<tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc" id="age_data_dots"> .......................... </tspan><tspan class="value" id="age_data">AI Engineer</tspan>
+<tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc" id="age_data_dots"> .......................... </tspan><tspan class="value" id="age_data">Robotics Software Engineer</tspan>
 <tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Origin</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Hyderabad, India</tspan>
-<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Building • Learning • Shipping</tspan>
-<tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">VS Code, Git, Postman, G-Colab</tspan>
+<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">Building • Simulating • Learning</tspan>
+<tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">VS Code, Git, Ubuntu 24.04(Distrobox), Github, RViz, Tensorboard</tspan>
 <tspan x="520" y="150" class="cc">. </tspan>
-<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, Javascript, C</tspan>
-<tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">LangChain, Langgraph, RAG, Transformers</tspan>
-<tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">HTML/CSS, React, Streamlit, Figma</tspan>
-<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Flask, Fast API, Mongo DB</tspan>
-<tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">Agentic AI, LLMs, Prompt Engineering</tspan>
+<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Mecha</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, C, Bash</tspan>
+<tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Mecha</tspan>.<tspan class="key">Robotics</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">ROS 2 Jazzy, Nav2, SLAM Toolbox, TF2, Path Planning</tspan>
+<tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Mecha</tspan>.<tspan class="key">Simulation</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">Gazebo Harmonic, MuJoCo, URDF/Xacro, SDF</tspan>
+<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Mecha</tspan>.<tspan class="key">Control.RL</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">PPO, Stable-Baseline3, Gymnasium, PD Control</tspan>
+<tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Mecha</tspan>.<tspan class="key">Modeling & Kinematics</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">FreeCAD,Serial Manipulators, multirotor drones</tspan>
 <tspan x="520" y="270" class="cc">. </tspan>
 <tspan x="520" y="290" fill="#FF5F87">- Contact</tspan> -—————————————————————————————————————————————————————-—-
 <tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">karthikp6002@gmail.com</tspan>
